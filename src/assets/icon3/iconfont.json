@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8023419",
+      "name": "在读学员",
+      "font_class": "zaiduxueyuan",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    }
+  ]
+}
