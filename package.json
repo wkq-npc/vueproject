@@ -7,7 +7,15 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
+    "element": "^0.1.4",
+    "element-ui": "^2.14.1",
+    "sass": "^1.30.0",
+    "sass-loader": "^10.1.0",
+    "swiper": "^6.4.5",
+    "ui": "^0.2.4",
+    "vant": "^2.12.0",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"
